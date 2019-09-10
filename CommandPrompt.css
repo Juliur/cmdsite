@@ -140,7 +140,7 @@ li>a{
 } 
 
 .carousel-inner>.carousel-item{
-	height: 35vh;
+	height: 28vh;
 }
 
 .blockquote{
@@ -303,6 +303,9 @@ li>a{
 	.carousel-inner{
 		padding-left: 0;
 	} 
+	.carousel-inner>.carousel-item{
+		height: 37vh;
+	}
 	.blog{
 		margin-top: 54px;
 	}
